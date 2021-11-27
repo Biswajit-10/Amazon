@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41351" started-at="2021-11-27T19:10:17 IST" finished-at="2021-11-27T19:10:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41351" started-at="2021-11-27T19:10:17 IST" finished-at="2021-11-27T19:10:58 IST">
+      <class name="com.amazontest.VerifyPriceChangedTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.amazontest.VerifyPriceChangedTest@2f943d71]" name="configBC" is-config="true" duration-ms="10888" started-at="2021-11-27T19:10:17 IST" finished-at="2021-11-27T19:10:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="verifyCartPrice()[pri:0, instance:com.amazontest.VerifyPriceChangedTest@2f943d71]" name="verifyCartPrice" duration-ms="30220" started-at="2021-11-27T19:10:28 IST" finished-at="2021-11-27T19:10:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartPrice -->
+      </class> <!-- com.amazontest.VerifyPriceChangedTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
